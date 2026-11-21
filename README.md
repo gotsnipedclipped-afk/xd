@@ -1,1 +1,1 @@
-# xd
+# PUT ALL IMAGES IN A FOLDER CALLED "img"
